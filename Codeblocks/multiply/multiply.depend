@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1493153730 source:c:\users\royce\documents\codeblocks\multiply\main.c
+	<stdio.h>
+	<stdlib.h>
+
